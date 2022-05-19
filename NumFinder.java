@@ -1,4 +1,4 @@
-public class Exemplo {
+public class NumFinder {
 
   private int smallest = Integer.MAX_VALUE;
   private int largest = Integer.MIN_VALUE;
